@@ -1,4 +1,5 @@
 ##  la Caisse
+<img src="https://st3.depositphotos.com/10325516/15834/i/450/depositphotos_158349196-stock-photo-point-of-sale-system-for.jpg" alt="caisse"> <img/>
 Cette projet aide les employee de marchie pour bien gerie les achats des de leurs clients  par .
 - liste de leurs achats avec la possibilité de suprimer .
 - les quantité de chaque produit .
