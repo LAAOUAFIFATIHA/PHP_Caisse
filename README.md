@@ -6,12 +6,12 @@ Cette projet aide les employee de marchie pour bien gerie les achats des de leur
 - la some totale.
 - addition de produit à la base de donneés.
 - la caisse .
-## get started 
+## Travailler avec ce code  
 >> install XAMPP
 - la configuration de XAMPP .
 - creation de l'enviromment de projet.
 
-### 🌐 Find Me Around the Web
+### 🌐 media
 - **Fiverr:** <a href="https://fr.fiverr.com/fatiha_laa?up_rollout=true"> Fiverr</a>
 - **Email:** <a href="laaouafifatiha@gmail.com"> laaouafifatiha@gmail.com </a>
 - **LinkedIn:** <a href="https://www.linkedin.com/in/fatiha-laaouafi-4227252ba/"> Linkdin </a>
