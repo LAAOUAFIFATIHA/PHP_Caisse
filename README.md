@@ -10,6 +10,8 @@ Cette projet aide les employee de marchie pour bien gerie les achats des de leur
 >> install XAMPP
 - la configuration de XAMPP .
 - creation de l'enviromment de projet.
+## pour voir les resultat 
+après l'execution tu peut voitr les resulatat sur un browser 
 
 ### 🌐 media
 - **Fiverr:** <a href="https://fr.fiverr.com/fatiha_laa?up_rollout=true"> Fiverr</a>
